@@ -10,3 +10,6 @@
 [submodule "TP5"]
 	path = TP5
 	url = https://github.com/EliasR19/Objetos-2-TP5.git
+[submodule "TP6"]
+	path = TP6
+	url = https://github.com/EliasR19/TP6.git
