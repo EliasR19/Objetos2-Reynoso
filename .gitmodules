@@ -13,3 +13,9 @@
 [submodule "TP6"]
 	path = TP6
 	url = https://github.com/EliasR19/TP6.git
+[submodule "TP-StatePattern"]
+	path = TP-StatePattern
+	url = https://github.com/EliasR19/StatePattern.git
+[submodule "TP-StrategyPattern"]
+	path = TP-StrategyPattern
+	url = https://github.com/EliasR19/TP-StrategyPatter.git
