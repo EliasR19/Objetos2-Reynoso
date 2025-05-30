@@ -19,3 +19,9 @@
 [submodule "TP-StrategyPattern"]
 	path = TP-StrategyPattern
 	url = https://github.com/EliasR19/TP-StrategyPatter.git
+[submodule "TP-Mockito"]
+	path = TP-Mockito
+	url = https://github.com/EliasR19/TP-Mockito.git
+[submodule "TP-CompositePattern"]
+	path = TP-CompositePattern
+	url = https://github.com/EliasR19/TP-CompositePattern.git
